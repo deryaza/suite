@@ -1,0 +1,12 @@
+[submodule "Avalonia"]
+	path = Avalonia
+	url = https://github.com/deryaza/Avalonia
+[submodule "ReactiveUI"]
+	path = ReactiveUI
+	url = https://github.com/deryaza/ReactiveUI
+[submodule "DynamicData"]
+	path = DynamicData
+	url = https://github.com/reactivemarbles/DynamicData
+[submodule "splat"]
+	path = splat
+	url = https://github.com/deryaza/splat
